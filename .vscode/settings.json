@@ -8,5 +8,8 @@
         "website/build/**": true,
         "website/docs/api/**": true,
     },
-    "typescript.tsdk": "node_modules\\typescript\\lib"
+    "typescript.tsdk": "node_modules\\typescript\\lib",
+    "chat.tools.terminal.autoApprove": {
+        "npx vite": true
+    }
 }
